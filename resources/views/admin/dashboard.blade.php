@@ -93,7 +93,7 @@
                             <div class="d-flex align-items-center">
                                 <i class="cc XRP text-purple"></i>
                                 <div class="ml-2">
-                                    <span class="text-dark font-medium">This Users</span>
+                                    <span class="text-dark font-medium">Total Users</span>
                                 </div>
                             </div>
                             <div class="d-flex align-items-center text-center">
