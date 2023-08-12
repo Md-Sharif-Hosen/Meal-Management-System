@@ -29,88 +29,111 @@
             <div class="row crypto-sales">
                 <div class="col-md-6 col-lg-3">
                     <div class="card">
-                        <div class="card-body">
+                        <div class="card-body" style="background-color: #b19d9d; border-radius: 43px;">
                             <div class="d-flex align-items-center">
                                 <i class="cc BTC text-warning"></i>
                                 <div class="ml-2">
-                                    <span class="text-dark font-medium">BTC<span
-                                            class="font-normal">&nbsp;/&nbsp;</span>Bitcoin</span>
+                                    <span class="text-dark font-medium">Total Cash</span>
                                 </div>
-                            </div>
-                            <div class="custom-input mt-2 mb-3">
-                                <select class="custom-select form-control">
-                                    <option>Select One</option>
-                                    <option value="1" selected>7 Days</option>
-                                    <option value="2">15 Days</option>
-                                    <option value="3">30 Days</option>
-                                </select>
                             </div>
                             <div class="d-flex align-items-center">
-                                <h3 class="mb-0">$3,640.65</h3>
-                                <div class="ml-auto">
-                                    <span class="text-danger"><i class="fas fa-caret-down mr-1"></i>
-                                        -0.70%</span>
-                                </div>
+                                <h3 class="mb-0">&#2547; 5000 taka</h3>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card">
-                        <div class="card-body">
+                        <div class="card-body" style="background-color: #f46666; border-radius: 43px;">
                             <div class="d-flex align-items-center">
                                 <i class="cc ETH text-info"></i>
                                 <div class="ml-2">
-                                    <span class="text-dark font-medium">ETH<span
-                                            class="font-normal">&nbsp;/&nbsp;</span>Ethereum</span>
+                                    <span class="text-dark font-medium">Due Cash</span>
                                 </div>
-                            </div>
-                            <div class="custom-input mt-2 mb-3">
-                                <select class="custom-select form-control">
-                                    <option>Select One</option>
-                                    <option value="1" selected>7 Days</option>
-                                    <option value="2">15 Days</option>
-                                    <option value="3">30 Days</option>
-                                </select>
                             </div>
                             <div class="d-flex align-items-center">
-                                <h3 class="mb-0">$123.50</h3>
-                                <div class="ml-auto">
-                                    <span class="text-success"><i class="fas fa-caret-up mr-1"></i> 3.57%</span>
-                                </div>
+                                <h3 class="mb-0">&#2547; 3000 taka</h3>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card">
-                        <div class="card-body">
+                        <div class="card-body" style="background-color: #9ed1a7; border-radius: 43px;">
                             <div class="d-flex align-items-center">
-                                <i class="cc XRP text-purple"></i>
+                                <i class="cc ETH text-info"></i>
                                 <div class="ml-2">
-                                    <span class="text-dark font-medium">XRP<span
-                                            class="font-normal">&nbsp;/&nbsp;</span>Ripple</span>
+                                    <span class="text-dark font-medium">Extra Cash</span>
                                 </div>
-                            </div>
-                            <div class="custom-input mt-2 mb-3">
-                                <select class="custom-select form-control">
-                                    <option>Select One</option>
-                                    <option value="1" selected>7 Days</option>
-                                    <option value="2">15 Days</option>
-                                    <option value="3">30 Days</option>
-                                </select>
                             </div>
                             <div class="d-flex align-items-center">
-                                <h3 class="mb-0">$0.303093</h3>
-                                <div class="ml-auto">
-                                    <span class="text-danger"><i class="fas fa-caret-down mr-1"></i>
-                                        -2.33%</span>
-                                </div>
+                                <h3 class="mb-0">&#2547; 2000 taka</h3>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body" style="background-color: #e6f276; border-radius: 43px;">
+                            <div class="d-flex align-items-center">
+                                <i class="cc XRP text-purple"></i>
+                                <div class="ml-2">
+                                    <span class="text-dark font-medium">This month total expense</span>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <h3 class="mb-0">&#2547; 7000 taka</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body" style="background-color: #7cd0da; border-radius: 43px;">
+                            <div class="d-flex align-items-center">
+                                <i class="cc XRP text-purple"></i>
+                                <div class="ml-2">
+                                    <span class="text-dark font-medium">This Users</span>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center text-center">
+                                <h3 class="mb-0 text-center">50 person</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body" style="background-color:#a792dc; border-radius: 43px;">
+                            <div class="d-flex align-items-center">
+                                <i class="cc BTC text-warning"></i>
+                                <div class="ml-2">
+                                    <span class="text-dark font-medium">This month current meal rate</span>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center text-center">
+                                <h3 class="mb-0 text-center">&#2547; 55 Taka</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-body" style="background-color: #cc83c1; border-radius: 43px;">
+                            <div class="d-flex align-items-center">
+                                <i class="cc BTC text-warning"></i>
+                                <div class="ml-2">
+                                    <span class="text-dark font-medium">This year average meal rate</span>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center text-center">
+                                <h3 class="mb-0 text-center">&#2547; 52 Taka</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                {{-- <div class="col-md-6 col-lg-3">
                     <div class="card">
                         <div class="card-body">
                             <div class="d-flex align-items-center">
@@ -137,7 +160,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
 
         </div>
